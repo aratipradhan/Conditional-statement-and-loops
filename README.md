@@ -1,1 +1,3 @@
-# If-else-statement-and-loops
+# Conditional statement and Loops
+
+Some programs using if,if-else, nested if statements and while and for loop
